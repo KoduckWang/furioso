@@ -2,7 +2,7 @@
 
 =======
 
-*The wetware*.
+*A wetware.*
 
 濕貨一個。
 
@@ -14,6 +14,12 @@
 * 受權部份引用或全文發佈的文章
 * 個人拍攝、繪製或創作的圖片
 * 受權截取或全圖轉載的圖片
+
+=======
+
+**已發佈的文章歸檔：**
+
+* [裝幀用紙與排版的定量分析](https://github.com/KoduckWang/furioso/blob/master/Paper_On_Typography.md)（*持續更新中*）
 
 =======
 
